@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "meshed"]
+	path = meshed
+	url = https://github.com/mkln/meshed
+	shallow = true
+	registered = true
