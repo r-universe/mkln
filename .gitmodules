@@ -8,3 +8,8 @@
 	url = https://github.com/mkln/meshed
 	shallow = true
 	registered = true
+[submodule "spamtree"]
+	path = spamtree
+	url = https://github.com/cran/spamtree
+	shallow = true
+	registered = true
